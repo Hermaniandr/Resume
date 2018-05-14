@@ -72,13 +72,13 @@ One day I found out about Django and I decided to become *a back-end developer*.
 
 **Software development** @ [*Computer academy ItStep*](https://itstep.by/)
 
-*2017* - *2022*
+*2017* - *2019*
 
 > Student at a software development course which introduces many programming languages (C/C++, C#, Java, Python, etc.).
 
-**Automated System Information Processing** @ [*Belarusian State University of Informatics and Radioelectronics](https://www.bsuir.by)
+**Automated System Information Processing** @ [*Belarusian State University of Informatics and Radioelectronics*](https://www.bsuir.by)
 
-*2012* - *2012*
+*2017* - *2022*
 
 > Student at BSUIR, Faculty of Innovative Lifelong Learning (Distance form).
 
